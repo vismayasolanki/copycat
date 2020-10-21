@@ -7,7 +7,7 @@
 <img src="./public/icon128.png" />
 
 ## (for jest-puppeteer)
-This extension is built to ease creating web tests. It is like Selenium-IDE, but for jest-puppeteer (for now).
+This extension is built to make easy the process of web tests. It is like Selenium-IDE, but for jest-puppeteer (for now).
 
 Also, this extension records actions on your own browser, so it doesn't need to open up new Selenium or Puppeteer window to record your actions on it.
 
